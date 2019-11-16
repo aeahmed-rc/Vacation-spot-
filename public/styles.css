@@ -1,0 +1,31 @@
+body{
+  background: white;
+  text-align: center;
+  background-image: url('beach.jpg');
+  background-size:cover;
+
+}
+h3{
+  margin-top: 40px;
+  color:white;
+}
+.message{
+  list-style-type: none;
+}
+h1,h2,span{
+  color: white;
+  font-size: 25px;
+}
+input{
+  padding:6px;
+  width:25%;
+}
+button{
+  height: auto;
+  font-size: 13px;
+  margin-top: 3px;
+}
+.fa-thumbs-up{
+  color: pink;
+
+}
